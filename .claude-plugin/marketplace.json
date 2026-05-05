@@ -1,0 +1,23 @@
+{
+  "name": "skills-maker",
+  "owner": {
+    "name": "gpocas"
+  },
+  "metadata": {
+    "description": "Reusable Claude Code skills for modern TypeScript/Next.js development",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "nextjs-typescript",
+      "source": "./",
+      "description": "Set up TypeScript + Next.js project configuration. Use when creating a new Next.js project, configuring tsconfig, setting up Biome for linting/formatting, or defining standard package.json scripts.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Guilherme Pocas"
+      },
+      "keywords": ["nextjs", "typescript", "biome", "react"],
+      "category": "workflow"
+    }
+  ]
+}

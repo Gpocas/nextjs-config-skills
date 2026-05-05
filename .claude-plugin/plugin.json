@@ -9,5 +9,5 @@
   "repository": "https://github.com/gpocas/skills-maker",
   "license": "MIT",
   "keywords": ["nextjs", "typescript", "biome", "react"],
-  "skills": "./skills/"
+  "skills": ["./skills/nextjs-typescript"]
 }
