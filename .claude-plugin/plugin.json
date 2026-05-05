@@ -1,0 +1,13 @@
+{
+  "name": "skills-maker",
+  "version": "1.0.0",
+  "description": "Reusable Claude Code skills for modern TypeScript/Next.js development",
+  "author": {
+    "name": "Guilherme Pocas",
+    "email": "guilherme.pocas@jbs.com.br"
+  },
+  "repository": "https://github.com/gpocas/skills-maker",
+  "license": "MIT",
+  "keywords": ["nextjs", "typescript", "biome", "react"],
+  "skills": "./skills/"
+}
