@@ -34,7 +34,7 @@ Claude will apply the configuration files to the current project directory.
 ## Structure
 
 ```
-skills-maker/
+nextjs-config-skills/
 ├── .claude-plugin/
 │   ├── plugin.json        # Plugin metadata and skill registration
 │   └── marketplace.json   # Marketplace listing
