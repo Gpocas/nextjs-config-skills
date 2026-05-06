@@ -1,4 +1,4 @@
-# skills-maker
+# nextjs-config-skills
 
 A collection of reusable [Claude Code](https://claude.ai/code) skills for modern web development. Each skill encodes opinionated, production-ready configurations that Claude can apply to new or existing projects.
 
