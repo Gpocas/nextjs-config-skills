@@ -6,7 +6,7 @@
     "name": "Guilherme Pocas",
     "email": "guilherme.pocas@jbs.com.br"
   },
-  "repository": "https://github.com/gpocas/skills-maker",
+  "repository": "https://github.com/Gpocas/nextjs-config-skills",
   "license": "MIT",
   "keywords": ["nextjs", "typescript", "biome", "react"],
   "skills": ["./skills/nextjs-config-skills"]

@@ -19,8 +19,8 @@ Sets up a TypeScript + Next.js project with:
 Install the plugin via Claude Code:
 
 ```bash
-claude plugin marketplace add gpocas/skills-maker
-claude plugin install nextjs-config-skills@skills-maker
+claude plugin marketplace add gpocas/nextjs-config-skills
+claude plugin install nextjs-config-skills@nextjs-config-skills
 ```
 
 Then invoke the skill in any project conversation:
