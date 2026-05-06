@@ -1,5 +1,5 @@
 {
-  "name": "skills-maker",
+  "name": "nextjs-config-skills",
   "owner": {
     "name": "gpocas"
   },
@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "nextjs-typescript",
+      "name": "nextjs-config-skills",
       "source": "./",
       "description": "Set up TypeScript + Next.js project configuration. Use when creating a new Next.js project, configuring tsconfig, setting up Biome for linting/formatting, or defining standard package.json scripts.",
       "version": "1.0.0",

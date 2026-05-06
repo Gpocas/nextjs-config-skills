@@ -1,5 +1,5 @@
 ---
-name: nextjs-typescript
+name: nextjs-config-skills
 description: Set up TypeScript + Next.js project configuration. Use when creating a new Next.js project, configuring tsconfig, setting up Biome for linting/formatting, or defining standard package.json scripts.
 ---
 

@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-typescript",
+  "name": "nextjs-config-skills",
   "version": "1.0.0",
   "description": "Reusable Claude Code skills for modern TypeScript/Next.js development",
   "author": {
@@ -9,5 +9,5 @@
   "repository": "https://github.com/gpocas/skills-maker",
   "license": "MIT",
   "keywords": ["nextjs", "typescript", "biome", "react"],
-  "skills": ["./skills/nextjs-typescript"]
+  "skills": ["./skills/nextjs-config-skills"]
 }
